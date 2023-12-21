@@ -75,7 +75,7 @@ Sinta-se à vontade para explorar, experimentar e, claro, se divertir! Lembre-se
 | :rage2: `:rage2:` | :rage3: `:rage3:` | :rage4: `:rage4:` |
 | :suspect: `:suspect:` | :trollface: `:trollface:` | 
 
-#Nature
+# Nature
 
 | :sunny: `:sunny:` | :umbrella: `:umbrella:` | :cloud: `:cloud:` |
 |:---|:---|:---|
@@ -118,7 +118,7 @@ Sinta-se à vontade para explorar, experimentar e, claro, se divertir! Lembre-se
 | :milky_way: `:milky_way:` | :partly_sunny: `:partly_sunny:` | :octocat: `:octocat:` |
 | :squirrel: `:squirrel:` |
 
-#Objects
+# Objects
 
 | :bamboo: `:bamboo:` | :gift_heart: `:gift_heart:` | :dolls: `:dolls:` |
 |:---|:---|:---|
@@ -209,7 +209,7 @@ Sinta-se à vontade para explorar, experimentar e, claro, se divertir! Lembre-se
 | :sweet_potato: `:sweet_potato:` | :eggplant: `:eggplant:` | :tomato: `:tomato:` |
 | :corn: `:corn:` |
 
-@Places
+# Places
 
 | :house: `:house:` | :house_with_garden: `:house_with_garden:` | :school: `:school:` |
 |:---|:---|:---|
@@ -249,7 +249,7 @@ Sinta-se à vontade para explorar, experimentar e, claro, se divertir! Lembre-se
 | :ru: `:ru:` | :gb: `:gb:` | :uk: `:uk:` |
 | :de: `:de:` |
 
-#Symbols
+# Symbols
 
 | :one: `:one:` | :two: `:two:` | :three: `:three:` |
 |:---|:---|:---|
