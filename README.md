@@ -1,4 +1,11 @@
 
+# Guia de Emojis para GitHub!  :blush:
+
+Olá, programador(a)! Se você está aqui, é porque entende a importância dos emojis. Eles adicionam um toque de cor, diversão e personalidade aos nossos projetos e comunicações no GitHub. :star2:
+
+Este repositório foi criado com o objetivo de ajudar você a entender e utilizar emojis de maneira eficaz no GitHub. Aqui, você encontrará uma variedade de emojis juntamente com seus respectivos códigos. Seja para adicionar um toque pessoal ao seu README, para destacar informações importantes ou simplesmente para tornar suas mensagens mais amigáveis, temos o emoji certo para você! :heart_eyes:
+
+Sinta-se à vontade para explorar, experimentar e, claro, se divertir! Lembre-se, a programação não precisa ser sempre séria. Vamos colorir o mundo do código com emojis! :rocket:
 
 
 | :bowtie: `:bowtie:` | :smile: `:smile:` | :laughing: `:laughing:` |
