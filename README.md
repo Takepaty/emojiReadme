@@ -1,4 +1,4 @@
-#Bem-vindo ao Guia de Emojis para GitHub!  :blush:
+# Bem-vindo ao Guia de Emojis para GitHub!  :blush:
 
 Olá, programador(a)! Se você está aqui, é porque entende a importância dos emojis. Eles adicionam um toque de cor, diversão e personalidade aos nossos projetos e comunicações no GitHub. :star2:
 
